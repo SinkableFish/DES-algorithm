@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\vsproject\des\des\源.cpp(257): warning C4554: “>>”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+c:\vsproject\des\des\源.cpp(260): warning C4554: “>>”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+  DES.vcxproj -> C:\vsProject\DES\Debug\DES.exe
+  DES.vcxproj -> C:\vsProject\DES\Debug\DES.pdb (Partial PDB)
